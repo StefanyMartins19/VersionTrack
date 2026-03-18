@@ -1,25 +1,29 @@
-## VersionTrack
+## 🚀 Sistema de Controle de Versões de Software
 
-Aplicação desenvolvida utilizando o AI Studio, com foco em integração com IA generativa para execução de tarefas inteligentes de forma simples e eficiente.
+Aplicação web desenvolvida como parte do **Projeto Integrador III (PI III)** da **UNIVESP**, com foco na gestão e validação de versões de software (Alpha, Beta e Produção).
+
+---
 
 ## 📌 Sobre o projeto
 
-Este projeto foi criado para rodar uma aplicação conectada ao AI Studio, permitindo testes locais e futuras implementações em ambiente de produção.
+Este sistema tem como objetivo centralizar o controle de versões de software em diferentes estágios de desenvolvimento, permitindo um acompanhamento organizado e eficiente do ciclo de vida das aplicações.
 
-Você pode visualizar a aplicação diretamente pelo link:
-👉 https://ai.studio/apps/1ba8c9f2-380d-45fd-8d23-c52c8996598f
+A proposta surge da necessidade de estruturar processos que, muitas vezes, são realizados de forma informal, como:
 
-## ⚙️ Pré-requisitos
+- Controle de versões em teste (Alpha e Beta)  
+- Registro de erros e inconsistências  
+- Coleta de feedback de usuários/testadores  
+- Definição de versões estáveis para produção  
 
-Antes de iniciar, certifique-se de ter instalado:
+Com isso, o sistema busca melhorar a rastreabilidade, organização e tomada de decisão no processo de liberação de software.
 
-- [Node.js](https://nodejs.org/)
-- Gerenciador de pacotes npm (já incluso com o Node)
+---
 
-## ▶️ Como rodar o projeto
+## 🎯 Objetivos
 
-Siga os passos abaixo para executar a aplicação localmente:
+- 📦 Gerenciar versões Alpha, Beta e Estáveis  
+- 🐞 Registrar e acompanhar bugs e melhorias  
+- 👥 Centralizar feedback de usuários/testadores  
+- 📊 Facilitar a validação e aprovação de versões  
+- 🔗 Possibilitar futuras integrações via API  
 
-1. Instale as dependências:
-   ```bash
-   npm install
