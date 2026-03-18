@@ -1,0 +1,5 @@
+{
+  "name": "VersionTrack - Controle de Versões",
+  "description": "Ferramenta para gerenciamento de ciclos de vida de software (Alpha, Beta, Stable) com dashboard técnico.",
+  "requestFramePermissions": []
+}
